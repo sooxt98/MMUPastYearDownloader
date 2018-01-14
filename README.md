@@ -1,5 +1,11 @@
 # MMUPastYearDownloader
 
+### Installation?
+
+`npm install`
+
+`node server`
+
 ### Login
 
 /login/:user/:pass `GET`
